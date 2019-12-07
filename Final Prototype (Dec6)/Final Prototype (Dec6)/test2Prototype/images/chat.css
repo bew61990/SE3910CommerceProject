@@ -1,0 +1,30 @@
+.chat-msg-box{
+	height: 750px;
+	min-height: 750px;
+	background-color: #eeeeee;
+	overflow: auto;
+}
+
+.chat{
+	height: 100%;
+	display: flex;
+	flex-direction: column-reverse;
+}
+.fluidContainer {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.logoImg{
+	width: 32px;
+	height: 32px;
+}
+
+.chat-in{
+	background-color: white;
+}
+.chat-out{
+	background-color: #c9c9c9;
+}
